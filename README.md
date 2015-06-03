@@ -8,11 +8,11 @@ An app that sends you places
 * Nicole McCabe - [@nicole-a-tesla](https://github.com/nicole-a-tesla)
 
 ## Description
-Retour is an app designed for roadtrippers that don't know what is out there, but know what they like. Using the user's interests and their destinations along the way, Laika will recommend stops along the way to places they might be interested in. Users can choose to change their route to visit these recommended places or keep driving and find some more.
+Retour is an app designed for roadtrippers that don't know what is out there, but know what they like. Using the user's interests and their destinations along the way, Retour will recommend stops along the way to places they might be interested in. Users can choose to change their route to visit these recommended places or keep driving and find some more.
 
 ## How to Install Locally:
 
-https://bison-laika.herokuapp.com
+http://retour.herokuapp.com
 
 ## How to Use the App:
 - Sign up as a new user
